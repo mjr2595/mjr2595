@@ -20,6 +20,7 @@
 <br />
 
 ---
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjr2595)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://michaeljraymond.co
 [music]: https://music.apple.com/profile/_rayray
