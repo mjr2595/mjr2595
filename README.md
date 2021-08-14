@@ -10,12 +10,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="my website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mjraymond | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mjr2595 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
-[<img align="left" alt="_rayray | Apple Music" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/applemusic.svg" />][music]
-[<img align="left" alt="heytherejace | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="disMichael | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+[<img align="left" alt="my website" width="22px" src="https://img.icons8.com/color/48/000000/web-design.png" />][website]
+[<img align="left" alt="mjraymond | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="mjr2595 | Github" width="22px" src="https://img.icons8.com/color/48/000000/github-2.png" />][github]
+[<img align="left" alt="_rayray | Apple Music" width="22px" src="https://img.icons8.com/color-glass/48/000000/apple-music.png" />][music]
+[<img align="left" alt="heytherejace | Instagram" width="22px" src="https://img.icons8.com/color/16/000000/instagram.png" />][instagram]
+[<img align="left" alt="disMichael | Discord" width="22px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />][discord]
 <br />
 <br />
 
