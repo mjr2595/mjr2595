@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Get them certs!
 - ⚡ Fun fact: The worst impacts of climate change could be irreversible by 2030
 
-### Connect with me:
+### Let's link up!
 
 [<img align="left" alt="my website" width="22px" src="https://img.icons8.com/color/48/000000/web-design.png" />][website]
 [<img align="left" alt="mjraymond | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
