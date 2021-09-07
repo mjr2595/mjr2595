@@ -22,7 +22,7 @@
 ---
 ![Michael's GitHub stats](https://github-readme-stats-mjr2595.vercel.app/api?username=mjr2595&theme=dark&show_icons=true)
 
-[website]: https://michaeljraymond.co
+[website]: https://michaelraymond.info
 [music]: https://music.apple.com/profile/_rayray
 [instagram]: https://www.instagram.com/heytherejace
 [linkedin]: https://www.linkedin.com/in/mjraymond
