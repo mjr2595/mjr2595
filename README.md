@@ -1,26 +1,25 @@
-### Hey there, I'm Michael!
+## Hey there, I'm Michael!
 
-## I'm a music playing, animal loving, improv performing, software developing human.
+### I'm a music playing, animal loving, improv performing, software developing human.
 
 - 💻 Always learning computer things
 - 🐶🐱🐱 Pet Poppa to a dog and 2 cats
 - 🎶 I may not play very much music, but I sure love listening
-- 🥅 2021 Goals: Get them certs!
-- ⚡ Fun fact: There were [7,389](https://www.geospatialworld.net/blogs/how-many-satellites-are-orbiting-the-earth-in-2021/) individual satellites in Space at the end of April, 2021
+- 🥅 2021 Goals: *Get them certs!*
+- ⚡ Fun fact: There were [7,389](https://www.geospatialworld.net/blogs/how-many-satellites-are-orbiting-the-earth-in-2021/) individual satellites in Space at the end of April 2021
 
 ### Let's link up!
 
-[<img align="left" alt="my website" width="22px" src="https://img.icons8.com/color/48/000000/web-design.png" />][website]
-[<img align="left" alt="mjraymond | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="mjr2595 | Github" width="22px" src="https://img.icons8.com/color/48/000000/github-2.png" />][github]
-[<img align="left" alt="_rayray | Apple Music" width="22px" src="https://img.icons8.com/color-glass/48/000000/apple-music.png" />][music]
-[<img align="left" alt="heytherejace | Instagram" width="22px" src="https://img.icons8.com/color/16/000000/instagram.png" />][instagram]
-[<img align="left" alt="disMichael | Discord" width="22px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />][discord]
-<br />
+[<img align="left" alt="my website" width="30px" src="https://img.icons8.com/color/48/000000/web-design.png" />][website]
+[<img align="left" alt="mjraymond | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="mjr2595 | Github" width="30px" src="https://img.icons8.com/color/48/000000/github-2.png" />][github]
+[<img align="left" alt="_rayray | Apple Music" width="30px" src="https://img.icons8.com/color-glass/48/000000/apple-music.png" />][music]
+[<img align="left" alt="heytherejace | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
+[<img align="left" alt="disMichael | Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />][discord]
 <br />
 
 ---
-![Michael's GitHub stats](https://github-readme-stats-mjr2595.vercel.app/api?username=mjr2595&theme=react&show_icons=true)
+![My GitHub stats](https://github-readme-stats-mjr2595.vercel.app/api?username=mjr2595&theme=react&show_icons=true)
 
 [website]: https://michaelraymond.info
 [music]: https://music.apple.com/profile/_rayray
