@@ -1,4 +1,4 @@
-## Hey there, I'm Michael! <img src="comp.png" alt="lil retro compy" title="lil retro compy" width="20"/>
+## Hey there, I'm Michael!
 
 ### I'm a music playing, animal loving, improv performing, software developing human.
 
@@ -15,7 +15,7 @@
 
 ### Let's link up!
 
-[<img align="left" alt="my website" width="30px" src="https://img.icons8.com/color/48/000000/web-design.png" />][website]
+[<img align="left" alt="my website" width="28px" src="comp.png" />][website]
 [<img align="left" alt="mjraymond | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="mjr2595 | Github" width="30px" src="https://img.icons8.com/color/48/000000/github-2.png" />][github]
 [<img align="left" alt="_rayray | Apple Music" width="30px" src="https://img.icons8.com/color-glass/48/000000/apple-music.png" />][music]
