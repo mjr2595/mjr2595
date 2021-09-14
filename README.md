@@ -1,4 +1,4 @@
-## Hey there, I'm Michael!
+## Hey there, I'm Michael! <img src="comp.png" alt="lil retro compy" title="lil retro compy" width="20"/>
 
 ### I'm a music playing, animal loving, improv performing, software developing human.
 
