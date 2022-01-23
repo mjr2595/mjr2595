@@ -24,7 +24,7 @@
 <br />
 
 ---
-![My GitHub stats](https://github-readme-stats-mjr2595.vercel.app/api?username=mjr2595&theme=react&show_icons=true)
+![My GitHub stats](https://github-readme-stats-mjr2595.vercel.app/api?username=mjr2595&theme=dracula&show_icons=true)
 
 [website]: https://michaelraymond.info
 [music]: https://music.apple.com/profile/_rayray
