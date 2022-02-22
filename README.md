@@ -5,7 +5,10 @@
 - 💻 Always learning computer things
 - 🐶🐱🐱 Pet Poppa to a dog and 2 cats
 - 🎶 I may not play very much music, but I sure love listening
-- 🥅 2021 Goals: *Get them certs!*
+- 🥅 2022 Goals: 
+    - Security+ cert
+    - Complete Web Dev course
+    - Study Data Structures and Algorithms
 - ⚡ Fun fact: There were [7,389](https://www.geospatialworld.net/blogs/how-many-satellites-are-orbiting-the-earth-in-2021/) individual satellites in Space at the end of April 2021
 <br />
 
