@@ -7,7 +7,9 @@
 - 🎶 I may not play very much music, but I sure love listening
 - 🥅 2022 Goals: 
     - Security+ cert
-    - Complete Web Dev course
+    - GCP ACE cert
+    - CKA cert
+    - Complete Web Dev course... if still time
     - Study Data Structures and Algorithms
 - ⚡ Fun fact: There were [7,389](https://www.geospatialworld.net/blogs/how-many-satellites-are-orbiting-the-earth-in-2021/) individual satellites in Space at the end of April 2021
 <br />
@@ -30,7 +32,7 @@
 ![My GitHub stats](https://github-readme-stats-mjr2595.vercel.app/api?username=mjr2595&theme=dracula&show_icons=true)
 
 [website]: https://michaelraymond.info
-[music]: https://music.apple.com/profile/_rayray
+[music]: https://music.apple.com/profile/mike_check
 [instagram]: https://www.instagram.com/heytherejace
 [linkedin]: https://www.linkedin.com/in/mjraymond
 [github]: https://github.com/mjr2595
