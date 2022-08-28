@@ -5,18 +5,17 @@
 - 💻 Always learning computer things
 - 🐶🐱🐱 Pet Poppa to a dog and 2 cats
 - 🎶 I may not play very much music, but I sure love listening
-- 🥅 2022 Goals: 
-    - Security+ cert
-    - GCP ACE cert
-    - CKA cert
-    - Complete Web Dev course... if still time
-    - Study Data Structures and Algorithms
+- 🥅 2022 Goals:
+  - Security+ cert
+  - GCP ACE cert
+  - CKA cert
+  - Complete Web Dev course... if still time
+  - Study Data Structures and Algorithms
 - ⚡ Fun fact: There were [7,389](https://www.geospatialworld.net/blogs/how-many-satellites-are-orbiting-the-earth-in-2021/) individual satellites in Space at the end of April 2021
-<br />
+  <br />
 
 <img src="8bit-desk.png" alt="Actual photo of me coding." title="Actual photo of me coding." width="250"/><br/>
 [Actual photo of me coding.]
-
 
 ### Let's link up!
 
@@ -29,7 +28,8 @@
 <br />
 
 ---
-![My GitHub stats](https://github-readme-stats-mjr2595.vercel.app/api?username=mjr2595&theme=dracula&show_icons=true)
+
+![My GitHub stats](https://github-readme-stats-mjr2595.vercel.app/api?username=mjr2595&theme=nord&show_icons=true)
 
 [website]: https://michaelraymond.info
 [music]: https://music.apple.com/profile/mike_check
