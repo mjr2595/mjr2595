@@ -12,7 +12,8 @@
   - Complete Web Dev course... if still time
   - Study Data Structures and Algorithms
 - ⚡ Fun fact: There were [7,389](https://www.geospatialworld.net/blogs/how-many-satellites-are-orbiting-the-earth-in-2021/) individual satellites in Space at the end of April 2021
-  <br />
+
+<br/>
 
 <img src="8bit-desk.png" alt="Actual photo of me coding." title="Actual photo of me coding." width="250"/><br/>
 [Actual photo of me coding.]
