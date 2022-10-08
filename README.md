@@ -9,13 +9,11 @@
   - Security+ cert ✅
   - GCP ACE cert
   - CKA cert
-  - Complete Web Dev course... if still time
-  - Study Data Structures and Algorithms
-- ⚡ Fun fact: There were [7,389](https://www.geospatialworld.net/blogs/how-many-satellites-are-orbiting-the-earth-in-2021/) individual satellites in Space at the end of April 2021
+- ⚡ Fun Fact: “T-Shirt” is actually short for “Tyrannosaurus Shirt”. Because of the shorter arms.
 
 <br/>
 
-<img src="8bit-desk.png" alt="Actual photo of me coding." title="Actual photo of me coding." width="250"/><br/>
+<img src="8bit-desk.png" alt="Actual photo of me coding." title="Created with jspaint.app" width="250"/><br/>
 [Actual photo of me coding.]
 
 ### Let's link up!
@@ -30,7 +28,7 @@
 
 ---
 
-![My GitHub stats](https://github-readme-stats-mjr2595.vercel.app/api?username=mjr2595&theme=nord&show_icons=true)
+<p><img align="center" src="https://github-readme-stats-mjr2595.vercel.app/api?username=mjr2595&theme=nord&show_icons=true" alt="GitHub Stats" height="175"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjr2595&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" height="175"/></p>
 
 [website]: https://michaelraymond.info
 [music]: https://music.apple.com/profile/mike_check
