@@ -18,13 +18,14 @@
 
 ### Let's link up!
 
-[<img align="left" alt="My Website" width="30px" src="https://img.icons8.com/color/48/000000/console.png" />][website]
+[<img align="left" alt="portfolio | My Website" width="30px" src="https://img.icons8.com/color/48/000000/console.png" />][website]
 [<img align="left" alt="mjraymond | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="mjr2595 | Github" width="30px" src="https://img.icons8.com/color/48/000000/github-2.png" />][github]
 [<img align="left" alt="_rayray | Apple Music" width="30px" src="https://img.icons8.com/color-glass/48/000000/apple-music.png" />][music]
 [<img align="left" alt="heytherejace | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
 [<img align="left" alt="disMichael | Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />][discord]
-<br />
+
+<br/>
 
 ---
 
