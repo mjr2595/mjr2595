@@ -3,7 +3,7 @@
     <img src="8bit-desk.png" alt="Actual photo of me coding." title="Created with jspaint.app" width="250"/>
     <h1>
       Hey there, I'm Michael! 
-      <img src="https://emoji.slack-edge.com/T029T92NSEP/this-is-fine-fire/dbcc63c3f6d5416b.gif" width="30px"/>
+      <img src="yo.png" width="25px"/>
     </h1>
     <h3>
       I'm a music playing, animal loving, improv performing, software developing human.
