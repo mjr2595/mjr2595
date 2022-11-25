@@ -1,6 +1,15 @@
-## Hey there, I'm Michael!
+<!-- Header -->
+<div id='header' align='center'>
+    <img src="8bit-desk.png" alt="Actual photo of me coding." title="Created with jspaint.app" width="250"/>
+    <h1>
+      <img src="https://media.giphy.com/media/jepNhL14TGHJe/giphy.gif" width="30px"/> 
+      Hey there, I'm Michael! 
+      <img src="https://media.giphy.com/media/jepNhL14TGHJe/giphy.gif" width="30px"/>
+    </h1>
+    <h2>I'm a music playing, animal loving, improv performing, software developing human.</h2>
+</div>
 
-### I'm a music playing, animal loving, improv performing, software developing human.
+<br/>
 
 - 💻 Always learning computer things
 - 🐶🐱🐱 Pet Poppa to a dog and 2 cats
@@ -15,9 +24,6 @@
 - ⚡ Fun Fact: “T-Shirt” is actually short for “Tyrannosaurus Shirt”. Because of the shorter arms.
 
 <br/>
-
-<img src="8bit-desk.png" alt="Actual photo of me coding." title="Created with jspaint.app" width="250"/><br/>
-[Actual photo of me coding.]
 
 ### Let's link up!
 
