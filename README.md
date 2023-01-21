@@ -16,7 +16,7 @@
 <div align='center'>
   <p>💻 Always learning computer things</p>
   <p>🐶 Pet Poppa to a dog and 2 cats 🐱🐱</p>
-  <p>🎶 Currently listening to: <a href="https://www.youtube.com/watch?v=5yx6BWlEVcY" target="_blank"><i>Chillhop Radio - jazzy & lofi hip hop beats<i></p></a>
+  <p>🎶 Currently listening to: <a href="https://www.youtube.com/watch?v=5yx6BWlEVcY" target="_blank"><i>Chillhop Radio - jazzy & lofi hip hop beats</i></p></a>
 </div>
 
 <div align='center'>
@@ -28,7 +28,7 @@
   </details>
   <details open><summary>🥅 2023 Goals</summary>
       <p></p>
-      <p>Nucamp Full Stack Web + Mobile Development cert 🚧 (in progress)</p>
+      <p>Nucamp Full Stack Web + Mobile Development cert <i>🚧 in progress 🚧</i></p>
       <p>Cloud Native cert</p>
   </details>
 </div>
