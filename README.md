@@ -13,19 +13,28 @@
 
 <br/>
 <!-- About -->
+<div align='center'>
+  <p>💻 Always learning computer things</p>
+  <p>🐶 Pet Poppa to a dog and 2 cats 🐱🐱</p>
+  <p>🎶 Currently listening to: <a href="https://www.youtube.com/watch?v=5yx6BWlEVcY" target="_blank"><i>Chillhop Radio - jazzy & lofi hip hop beats<i></p></a>
+</div>
 
--   💻 Always learning computer things
--   🐶🐱🐱 Pet Poppa to a dog and 2 cats
--   🎶 Currently listening to: [_Chillhop Radio - jazzy & lofi hip hop beats_](https://www.youtube.com/watch?v=5yx6BWlEVcY)
--   🥅 2022 Goals:
-    -   Security+ cert ✅
-    -   Enroll in Web Dev Bootcamp ✅
--   🥅 2023 Goals:
-    -   Nucamp Full Stack Web + Mobile Development cert
-    -   Cloud Native cert
--   ⚡ Fun Fact: “T-Shirt” is actually short for “Tyrannosaurus Shirt”. Because of the shorter arms.
+<div align='center'>
+  <h3>Yearly Goals:</h3>
+  <details><summary>🥅 2022 Goals</summary>
+      <p></p>
+      <p>Security+ cert ✅</p>
+      <p>Enroll in Web Dev Bootcamp ✅</p>
+  </details>
+  <details open><summary>🥅 2023 Goals</summary>
+      <p></p>
+      <p>Nucamp Full Stack Web + Mobile Development cert 🚧 (in progress)</p>
+      <p>Cloud Native cert</p>
+  </details>
+</div>
 
 <br/>
 <!-- Git -->
-
-<p><img align="center" src="https://github-readme-stats-mjr2595.vercel.app/api?username=mjr2595&theme=nord&show_icons=true" alt="GitHub Stats" height="175"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjr2595&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" height="175"/></p>
+<div align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mjr2595&theme=github-dark-blue" alt="GitHub Readme Streak Stats" title="GitHub Readme Streak Stats"/>
+</div>
