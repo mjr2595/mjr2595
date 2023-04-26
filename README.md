@@ -29,7 +29,7 @@
   <details open><summary>🥅 2023 Goals</summary>
       <p></p>
       <p><a href="https://github.com/mjr2595/Nucamp-Fullstack-Course" target="_blank">Nucamp Full Stack Web + Mobile Development cert -- with honors!</a> ✅</p>
-      <p>(Check out my honors project: <a href="https://github.com/mjr2595/Nucamp-Fullstack-Course" target="_blank">Barkbook</a>)</p>
+      <p>(Check out my honors project: <a href="https://github.com/mjr2595/borker" target="_blank">Barkbook</a>)</p>
       <p>Get a dev job</p>
       <p>Launch <a href="https://github.com/mjr2595/tidy-app" target="_blank">Tidy app</a> 🚀</p>
   </details>
