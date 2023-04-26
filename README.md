@@ -28,8 +28,9 @@
   </details>
   <details open><summary>🥅 2023 Goals</summary>
       <p></p>
-      <p>Nucamp Full Stack Web + Mobile Development cert <i>🚧 in progress 🚧</i></p>
-      <p>Cloud Native cert</p>
+      <p><a href="https://github.com/mjr2595/Nucamp-Fullstack-Course" target="_blank">Nucamp Full Stack Web + Mobile Development cert -- with honors!</a> ✅</p>
+      <p>(Check out my honors project: <a href="https://github.com/mjr2595/Nucamp-Fullstack-Course" target="_blank">Barkbook</a>)</p>
+      <p>Get a dev job</p>
       <p>Launch <a href="https://github.com/mjr2595/tidy-app" target="_blank">Tidy app</a> 🚀</p>
   </details>
 </div>
@@ -38,4 +39,9 @@
 <!-- Git -->
 <div align='center'>
   <img src="https://streak-stats.demolab.com?user=mjr2595&theme=github-dark-blue&hide_border=true" alt="GitHub Readme Streak Stats" title="GitHub Readme Streak Stats"/>
+</div>
+
+<div align='center'>
+  <p></p>
+  <h3>👇 Some featured projects 👇</h3>
 </div>
