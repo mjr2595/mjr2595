@@ -1,6 +1,6 @@
 <!-- Header -->
 <div id='header' align='center'>
-    <img src="assets/8bit-desk.png" alt="Actual photo of me coding." title="Created with jspaint.app" width="250"/>
+    <a href="https://michaelraymond.dev/" target="_blank"><img src="assets/8bit-desk.png" alt="Actual photo of me coding." title="Link to my site" width="250"/></a>
     <h1>
       Hey there, I'm Michael! 
       <img src="assets/yo.png" width="25px"/>
@@ -8,7 +8,6 @@
     <h3>
       I'm a music playing, animal loving, improv performing, software developing human.
     </h3>
-    <a href="https://michaelraymond.info/" target="_blank"><img src="assets/where-to-find-me-links.svg" alt="Links to other places to find me" /></a>
 </div>
 
 <br/>
