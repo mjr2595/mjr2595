@@ -19,9 +19,8 @@
   <p>📝 My lil blog: <a href="https://michaelraymond.dev/" target="_blank">Mike's Super Short Blog</a></p>
 </div>
 
+<br/>
+<!-- The rest -->
 <div align='center'>
-  <h3>👇 A random meme (some might be a bit ruff) 👇</h3>
-  <img src='https://rando-memes.vercel.app/' title="Meme" alt="oh no :( refresh page for meme" width="350" />
-  <p></p>
   <h3>👇 Some featured projects 👇</h3>
 </div>
