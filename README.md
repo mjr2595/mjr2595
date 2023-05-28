@@ -21,7 +21,7 @@
 
 <div align='center'>
   <h3>👇 A random meme (some might be a bit ruff) 👇</h3>
-  <img src='https://random-memer-production-1837.up.railway.app/' title="Meme" alt="oh no :( refresh page for meme" width="350" />
+  <img src='https://rando-memes.vercel.app/' title="Meme" alt="oh no :( refresh page for meme" width="350" />
   <p></p>
   <h3>👇 Some featured projects 👇</h3>
 </div>
