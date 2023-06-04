@@ -18,9 +18,3 @@
   <p>🎶 Currently listening to: <a href="https://www.youtube.com/@Macroblank" target="_blank"><i>Macroblank</i> 🌊 </p></a>
   <p>📝 My lil blog: <a href="https://michaelraymond.dev/" target="_blank">Mike's Super Short Blog</a></p>
 </div>
-
-<br/>
-<!-- The rest -->
-<div align='center'>
-  <h3>👇 Some featured projects 👇</h3>
-</div>
