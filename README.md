@@ -1,6 +1,4 @@
-### What's up! 🖖
-
-I'm Michael and I'm a music playing, animal loving, improv performing, software developing human.
+Sup. I'm Michael and I'm a music playing, animal loving, improv performing, software developing human.
 
 - Pet Poppa to a dog and 2 cats 🐶🐱🐱
 - My website and lil blog: [Mike's Super Short Blog](https://michaelraymond.dev/) 📝
@@ -9,4 +7,4 @@ I'm Michael and I'm a music playing, animal loving, improv performing, software 
   - Mongo, Express, React, Node 📚
   - Vite, Chakra UI, Zustand, React Query 🛠️
   - VS Code, iTerm, Oh My Zsh (with Starship prompt) 💻
-- Where to [find me](https://mjr2595.github.io/link-sync/).
+- Where to [find me](https://mjr2595.github.io/link-sync/). 🔗
