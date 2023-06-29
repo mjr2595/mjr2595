@@ -1,20 +1,11 @@
-<!-- Header -->
-<div id='header' align='center'>
-    <a href="https://michaelraymond.dev/" target="_blank"><img src="assets/8bit-desk.png" alt="Actual photo of me coding." title="Link to my site" width="250"/></a>
-    <h1>
-      Hey there, I'm Michael! 
-      <a href="https://michaelraymond.dev/" target="_blank"><img src="assets/yo.png" width="25px"/></a>
-    </h1>
-    <h3>
-      I'm a music playing, animal loving, improv performing, software developing human.
-    </h3>
-</div>
+## I'm Michael. What's up! 🖖
 
-<br/>
-<!-- About -->
-<div align='center'>
-  <p>💻 Always learning computer things</p>
-  <p>🐶 Pet Poppa to a dog and 2 cats 🐱🐱</p>
-  <p>🎶 Currently listening to: <a href="https://www.youtube.com/@Macroblank" target="_blank"><i>Macroblank</i> 🌊 </p></a>
-  <p>📝 My lil blog: <a href="https://michaelraymond.dev/" target="_blank">Mike's Super Short Blog</a></p>
-</div>
+I'm a music playing, animal loving, improv performing, software developing human.
+
+Here's a bit about me:
+
+- Always learning computer things 💻
+- Pet Poppa to a dog and 2 cats 🐶🐱🐱
+- My website and lil blog: [Mike's Super Short Blog](https://michaelraymond.dev/) 📝
+- Currently listening to: [_Macroblank_](https://www.youtube.com/@Macroblank) 🌊
+- Currently coding with: TypeScript, React, Express, Mongo, Node, Vite, Chakra UI, Zustand, React Query
