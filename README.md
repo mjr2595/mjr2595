@@ -7,4 +7,4 @@ Sup. I'm Michael and I'm a music playing, animal loving, improv performing, soft
   - Mongo, Express, React, Node 📚
   - Vite, Chakra UI, Zustand, React Query 🛠️
   - VS Code, iTerm, Oh My Zsh (with Starship prompt) 💻
-- Where to [find me](https://mjr2595.github.io/link-sync/). 🔗
+- Where to [find me](https://mjr2595.github.io/link-sync/) 🔗
