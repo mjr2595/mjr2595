@@ -7,4 +7,5 @@ Sup. I'm Michael and I'm a music playing, animal loving, improv performing, soft
   - Mongo, Express, React, Node 📚
   - Vite, Chakra UI, Zustand, React Query 🛠️
   - VS Code, iTerm, Oh My Zsh (with Starship prompt) 💻
+- Currently volunteering at [Gift of a Life Foundation](https://goalfoundation.us/) and working on [Nuron](https://thenuronway.com/) 🧠
 - Where to [find me](https://mjr2595.github.io/link-sync/) 🔗
