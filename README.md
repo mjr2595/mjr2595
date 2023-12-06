@@ -5,4 +5,4 @@ Sup. I'm Michael.
 - Currently listening to: [_Macroblank_](https://www.youtube.com/@Macroblank) 🌊
 - Volunteer Flutter dev at [Gift of a Life Foundation](https://goalfoundation.us/) and working on [Nuron](https://thenuronway.com/) 🧠
 
-More palces to [find me](https://www.biodrop.io/mjr2595) 🔗
+More places to [find me](https://www.biodrop.io/mjr2595) 🔗
