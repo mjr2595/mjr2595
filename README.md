@@ -1,4 +1,4 @@
-Sup. I'm Michael.
+Sup. I'm Michael
 
 - Pet Poppa to a dog and 2 cats 🐶🐱🐱
 - My website and lil blog: [Mike's Super Short Blog](https://michaelraymond.dev/) 📝
