@@ -5,4 +5,4 @@ Sup. I'm Michael
 - Currently listening to: [Coffee Shop Radio](https://www.youtube.com/watch?v=lP26UCnoH9s) ☕
 - Currently learning about: [Next.js](https://nextjs.org/learn?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=home) and Next.js [accessories](https://vercel.com/) ▲
 
-More places to [find me](https://www.biodrop.io/mjr2595) 🔗
+More places to [find me](https://michaelraymond.dev/links) 🔗
